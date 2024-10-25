@@ -45,7 +45,7 @@ comments:
     num_posts            : # 5 (default)
     colorscheme          : # "plum" (default), "plum"
   utterances:
-    theme                : "github-mint" (default), "github-neon"
+    theme                : # "github-mint" (default), "github-neon"
     issue_term           : # "pathname" (default)
   giscus:
     repo_id              : # Shown during giscus setup at https://giscus.app
